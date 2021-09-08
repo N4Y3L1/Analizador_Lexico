@@ -1,0 +1,10 @@
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\bin\Release\Act2.exe.config
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\bin\Release\Act2.exe
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\bin\Release\Act2.pdb
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Release\Act2.csprojAssemblyReference.cache
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Release\Act2.Form1.resources
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Release\Act2.Properties.Resources.resources
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Release\Act2.csproj.GenerateResource.cache
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Release\Act2.csproj.CoreCompileInputs.cache
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Release\Act2.exe
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Release\Act2.pdb

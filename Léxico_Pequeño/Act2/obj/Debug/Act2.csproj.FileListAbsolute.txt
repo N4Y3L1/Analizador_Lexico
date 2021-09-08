@@ -1,0 +1,40 @@
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\bin\Debug\Act2.exe.config
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\bin\Debug\Act2.exe
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\bin\Debug\Act2.pdb
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Debug\Act2.csprojAssemblyReference.cache
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Debug\Act2.Form1.resources
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Debug\Act2.Properties.Resources.resources
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Debug\Act2.csproj.GenerateResource.cache
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Debug\Act2.csproj.CoreCompileInputs.cache
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Debug\Act2.exe
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Act2\Act2\Act2\obj\Debug\Act2.pdb
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\bin\Debug\Act2.exe.config
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\bin\Debug\Act2.exe
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\bin\Debug\Act2.pdb
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.csprojAssemblyReference.cache
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.Form1.resources
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.Properties.Resources.resources
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.csproj.GenerateResource.cache
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.csproj.CoreCompileInputs.cache
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.exe
+C:\Users\nayel\Desktop\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.pdb
+C:\Users\nayel\OneDrive\Escritorio\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.csprojAssemblyReference.cache
+C:\Users\nayel\OneDrive\Escritorio\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.Form1.resources
+C:\Users\nayel\OneDrive\Escritorio\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.Properties.Resources.resources
+C:\Users\nayel\OneDrive\Escritorio\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.csproj.GenerateResource.cache
+C:\Users\nayel\OneDrive\Escritorio\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.csproj.CoreCompileInputs.cache
+C:\Users\nayel\OneDrive\Escritorio\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.exe
+C:\Users\nayel\OneDrive\Escritorio\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\obj\Debug\Act2.pdb
+C:\Users\nayel\OneDrive\Escritorio\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\bin\Debug\Act2.exe.config
+C:\Users\nayel\OneDrive\Escritorio\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\bin\Debug\Act2.exe
+C:\Users\nayel\OneDrive\Escritorio\Semestre\Seminario Traductores\Actividades\Actividad3\Act2\Act2\bin\Debug\Act2.pdb
+C:\Users\nayel\OneDrive\Escritorio\Ultimo Semestre\Sem Traductores 2\Practica1\Act2\Act2\bin\Debug\Act2.exe.config
+C:\Users\nayel\OneDrive\Escritorio\Ultimo Semestre\Sem Traductores 2\Practica1\Act2\Act2\bin\Debug\Act2.exe
+C:\Users\nayel\OneDrive\Escritorio\Ultimo Semestre\Sem Traductores 2\Practica1\Act2\Act2\bin\Debug\Act2.pdb
+C:\Users\nayel\OneDrive\Escritorio\Ultimo Semestre\Sem Traductores 2\Practica1\Act2\Act2\obj\Debug\Act2.csprojAssemblyReference.cache
+C:\Users\nayel\OneDrive\Escritorio\Ultimo Semestre\Sem Traductores 2\Practica1\Act2\Act2\obj\Debug\Act2.Form1.resources
+C:\Users\nayel\OneDrive\Escritorio\Ultimo Semestre\Sem Traductores 2\Practica1\Act2\Act2\obj\Debug\Act2.Properties.Resources.resources
+C:\Users\nayel\OneDrive\Escritorio\Ultimo Semestre\Sem Traductores 2\Practica1\Act2\Act2\obj\Debug\Act2.csproj.GenerateResource.cache
+C:\Users\nayel\OneDrive\Escritorio\Ultimo Semestre\Sem Traductores 2\Practica1\Act2\Act2\obj\Debug\Act2.csproj.CoreCompileInputs.cache
+C:\Users\nayel\OneDrive\Escritorio\Ultimo Semestre\Sem Traductores 2\Practica1\Act2\Act2\obj\Debug\Act2.exe
+C:\Users\nayel\OneDrive\Escritorio\Ultimo Semestre\Sem Traductores 2\Practica1\Act2\Act2\obj\Debug\Act2.pdb
